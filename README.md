@@ -2,8 +2,9 @@
 
 
 ### Hi everyone, I'm Rocco 😄 
-- 👨‍🎓 I’m a Computer Engineering M.Sc. student at the University of Modena and Reggio Emilia ([UNIMORE](https://international.unimore.it/)).
-- 🌱 I’m currently learning the topics of AI, Machine & Deep Learning + Reinforcement Learning  , Computer Vision & Cognitive Science, Big Data Analysis, Distributed Intelligent Systems, Smart Robotics & Mobile Robotics, User Experience & Design, IoT, Technologies of Network Infrastructures, Automotive Connectivity.
+- 👨‍🎓 I’m a Computer Engineer - AI Engineer
+- Currently i'm a PhD student at Alma Mater Studiorum University of Bologna ([Unibo](https://www.unibo.it/en/homepage)).
+- 🌱 I’m currently working on the topics of AI, Machine & Deep Learning + Reinforcement Learning applied over AR-XR-VR technologies.
 
 
 ##  ...and my expectation
