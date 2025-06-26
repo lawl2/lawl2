@@ -3,7 +3,7 @@
 
 ### Hi everyone, I'm Rocco 😄 
 - 👨‍🎓 I’m a Computer Engineer - AI Engineer
-- Currently i'm a PhD student at Alma Mater Studiorum University of Bologna ([Unibo](https://www.unibo.it/en/homepage)).
+- Currently I'm a PhD student at Alma Mater Studiorum University of Bologna ([Unibo](https://www.unibo.it/en/homepage)).
 - 🌱 I’m currently working on the topics of AI, Machine & Deep Learning + Reinforcement Learning applied over AR-XR-VR technologies.
 
 
