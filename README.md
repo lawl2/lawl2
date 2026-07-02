@@ -83,15 +83,9 @@ I am interested in exploring and developing digital technologies that can suppor
 ## 📫 Contacts
 
 <p align="left">
-  <a href="mailto:roccodeciantis@outlook.com">
-    <img src="https://img.icons8.com/color/48/microsoft-outlook-2019--v2.png" alt="Outlook" width="42" height="42" />
-  </a>
-  &nbsp;
-  <a href="https://github.com/roccodeciantis">
-    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Github-Dark.svg" alt="GitHub" width="42" height="42" />
-  </a>
-  &nbsp;
-  <a href="https://www.linkedin.com/in/roccodeciantis">
-    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/LinkedIn.svg" alt="LinkedIn" width="42" height="42" />
-  </a>
+<a href="mailto:roccodeciantis@outlook.com"><img src="https://img.icons8.com/color/48/microsoft-outlook-2019--v2.png" alt="Outlook" width="42" height="42" /></a>
+&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/roccodeciantis"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/LinkedIn.svg" alt="LinkedIn" width="42" height="42" /></a>
+&nbsp;&nbsp;
+<a href="https://www.unibo.it/sitoweb/rocco.deciantis2"><img src="assets/unibo-icon.png" alt="Unibo" width="42" height="42" /></a>
 </p>
