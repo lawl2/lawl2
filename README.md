@@ -87,5 +87,5 @@ I am interested in exploring and developing digital technologies that can suppor
 &nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/roccodeciantis"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/LinkedIn.svg" alt="LinkedIn" width="42" height="42" /></a>
 &nbsp;&nbsp;
-<a href="https://www.unibo.it/sitoweb/rocco.deciantis2"><img src="assets/unibo-icon.png" alt="Unibo" width="42" height="42" /></a>
+<a href="https://www.unibo.it/sitoweb/rocco.deciantis2"><img src="assets/UniboLogo-UNIBO.png" alt="Unibo" width="42" height="42" /></a>
 </p>
