@@ -1,41 +1,97 @@
-## A little about me...
+# Hi there, I'm Rocco 👋
 
+I'm a **Computer Engineer** and **AI Engineer**, currently pursuing an **Industrial PhD** at **Alma Mater Studiorum – University of Bologna**.
 
-### Hi everyone, I'm Rocco 😄 
-- 👨‍🎓 I’m a Computer Engineer - AI Engineer
-- Currently I'm a PhD student at Alma Mater Studiorum University of Bologna ([Unibo](https://www.unibo.it/en/homepage)).
-- 🌱 I’m currently working on the topics of AI, Machine & Deep Learning + Reinforcement Learning applied over XR technologies.
+My work focuses on the integration of **Machine Learning**, **Deep Learning**, **Computer Vision** and **XR technologies** to design intelligent, human-centered systems for **Industry 5.0**.
 
+---
 
-##  ...and my expectation
-Investigating and exploiting digital technologies to develop systems which aims to solve many problems helping people.
+## 🚀 About me
 
+* 🎓 Computer Engineer with a background in **AI Engineering**
+* 🧠 PhD student at the **University of Bologna**
+* 🧪 Working on **AI**, **ML/DL**, **Computer Vision**, **Reinforcement Learning** and **XR**
+* 🕶️ Interested in **human-in-the-loop systems**, immersive technologies and intelligent interfaces
+* 🎨 Also passionate about **art, design, music** and creative technologies
 
-## Technologies I'm learning or using 💻​
+---
 
+## 🎯 What drives me
 
-#### ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
+I am interested in exploring and developing digital technologies that can support people, improve human-machine interaction and solve real-world problems through intelligent, adaptive and user-centered systems.
 
+---
 
-#### ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)  ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+## 🛠️ Tech Stack
 
-  
-#### ![ROS](https://img.shields.io/badge/ros-%230A0FF9.svg?style=for-the-badge&logo=ros&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)  ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
+<table>
+  <tr>
+    <td align="center" valign="top" width="33%">
+      <strong>Programming</strong>
+      <br /><br />
+      <img src="https://skillicons.dev/icons?i=python,c,cpp,javascript" />
+    </td>
+    <td align="center" valign="top" width="33%">
+      <strong>AI, Data Science & CV</strong>
+      <br /><br />
+      <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,sklearn" />
+      <br /><br />
+      <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
+      <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
+      <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=plotly&logoColor=white" />
+    </td>
+    <td align="center" valign="top" width="33%">
+      <strong>Web & Backend</strong>
+      <br /><br />
+      <img src="https://skillicons.dev/icons?i=flask,django,mysql" />
+    </td>
+  </tr>
 
-#### ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+  <tr>
+    <td align="center" valign="top" width="33%">
+      <strong>Robotics & Embedded</strong>
+      <br /><br />
+      <img src="https://skillicons.dev/icons?i=ros,arduino,raspberrypi" />
+    </td>
+    <td align="center" valign="top" width="33%">
+      <strong>Tools & Platforms</strong>
+      <br /><br />
+      <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+    </td>
+    <td align="center" valign="top" width="33%">
+      <strong>Design & Creativity</strong>
+      <br /><br />
+      <img src="https://skillicons.dev/icons?i=ps,ai,figma" />
+    </td>
+  </tr>
+</table>
 
-#### ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Microsoft](https://img.shields.io/badge/Microsoft-0078D4?style=for-the-badge&logo=microsoft&logoColor=white) ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white) ![Fedora](https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white) ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+---
 
-#### ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)  ![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)  ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white) ![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white)
+## 🌱 Current interests
 
-#### ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) 
+* Human-centered AI
+* Extended Reality
+* Computer Vision
+* Reinforcement Learning
+* Industry 5.0
+* Human-in-the-loop systems
+* Intelligent interfaces
 
+---
 
-## ⚡  But wait there's more on me
- I'm interested also in art & design, music and more...
+## 📫 Contacts
 
-
-## Contacts 📫
-
-- ✉️​ roccodeciantis@outlook.com
-
+<p align="left">
+  <a href="mailto:roccodeciantis@outlook.com">
+    <img src="https://img.icons8.com/color/48/microsoft-outlook-2019--v2.png" alt="Outlook" width="42" height="42" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/roccodeciantis">
+    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Github-Dark.svg" alt="GitHub" width="42" height="42" />
+  </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/roccodeciantis">
+    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/LinkedIn.svg" alt="LinkedIn" width="42" height="42" />
+  </a>
+</p>
